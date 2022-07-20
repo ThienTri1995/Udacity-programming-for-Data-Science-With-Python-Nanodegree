@@ -24,3 +24,6 @@ In this project, you will make use of Python to explore data related to bike sha
 * [Numpy documentation.](https://numpy.org/doc/) (if needed)
 * [Python documentation for controlflow.](https://docs.python.org/3/tutorial/controlflow.html)
 * If I have doubts about the errors occured while running the code I used: www.stackoverflow.com
+
+### Refer :
+https://github.com/TriDMT1995/Udacity-programming-for-Data-Science-With-Python-Nanodegree/tree/master/Python_Project
